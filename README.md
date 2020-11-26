@@ -20,3 +20,12 @@ To train, run yolov5-master/train.py.
 ## To detect Run from terminal: (current path should be yolov5-master/)
 python detect.py --source "can be camera or folder with images example for camera on link : http://10.0.0.10:8080/"
 --weights "path to the weights Example: H:/Develop/AI/yolov5-master/runs/exp5_boat/weights/best.pt" --save-dir Hvor det skal lagres, default er inference/output.
+
+
+
+
+## Another README inside yolov5-master
+
+There is another README inside the yolov5-master published by the creator of the original code.
+https://github.com/ultralytics/yolov5
+It provides explanations, tutorials etc. Worth a look!
