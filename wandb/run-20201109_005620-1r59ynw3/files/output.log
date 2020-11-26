@@ -1,0 +1,7 @@
+Out[3]: <wandb.sdk.wandb_run.Run at 0x7677e30>
+Traceback (most recent call last):
+  File "C:\Users\Marti\AppData\Local\Programs\Python\Python37-32\lib\site-packages\IPython\core\interactiveshell.py", line 3417, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-4-f7a08363dcdf>", line 1, in <module>
+    for _ in range(num_epochs):
+NameError: name 'num_epochs' is not defined

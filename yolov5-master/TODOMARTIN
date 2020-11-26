@@ -1,0 +1,24 @@
+TODO:
+
+*Fungerende resultater
+- run/exp6
+- run/exp16
+- run/exp30
+- run/exp45
+-overwrited the results, just rerun these. change output dir to not overwrite it.
+
+*Finne en måte å sync offline treningsdata med wandb. klare å se alle dataen min i wandb og dokumentere dette.
+https://github.com/ultralytics/yolov5/issues/1289
+
+*trene opp mer data. Kjørt en iterasjon med det.
+husk å endre batchsize.
+den kan jeg ved å skrive: python train.py --batch-size 4, eller endre på det inne der.
+
+*få brukt google cloud credit for å kjøre trening. link for å hente coupon: https://google.secure.force.com/GCPEDU?cid=StRQiG%2BkoRRHVZnR8UE%2FDovV9IT%2F6NV2EHZe7xeohoazR14iZKkbG3rxBQkwJutD
+Pooling av credits: https://docs.google.com/document/d/1yOu9lH5re9lSSLC1usw4YyDEB2eNCk0JefhvaW-4f_c/edit
+*Finn ut hvorfor det er så lite GPU bruk i treningen. Hovedminne er begrensende...
+
+*Ved neste test, kjør til google maskinene. Test med varierte batch sizes.
+
+
+https://github.com/ntnu-ai-lab/tdt4173-2020, dette er for basic tutorial på pandas, skicit, numpy osv.

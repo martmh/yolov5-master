@@ -1,0 +1,12 @@
+Out[3]: <wandb.sdk.wandb_run.Run at 0x75ca070>
+Traceback (most recent call last):
+  File "C:\Users\Marti\AppData\Local\Programs\Python\Python37-32\lib\site-packages\IPython\core\interactiveshell.py", line 3417, in run_code
+    exec(code_obj, self.user_global_ns, self.user_ns)
+  File "<ipython-input-4-87471267622e>", line 1, in <module>
+    wandb.watch(model)
+NameError: name 'model' is not defined
+  File "<ipython-input-5-7d89ecd34e11>", line 1
+    wandb sync
+             ^
+SyntaxError: invalid syntax
+

@@ -1,0 +1,18 @@
+{
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.9",
+    "heartbeatAt": "2020-11-08T23:56:21.913504",
+    "startedAt": "2020-11-08T23:56:20.345245",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--mode=client",
+        "--port=54528"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "LAPTOP-KGP5FA0J",
+    "username": "Marti",
+    "executable": "C:\\Users\\Marti\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe"
+}

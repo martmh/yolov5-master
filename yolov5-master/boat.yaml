@@ -1,0 +1,11 @@
+#path to images/train
+train: C:\Users\Marti\yolov5-master\yolov5-master\Dataset\boatData\images\train
+
+#path to images/valid
+valid: C:\Users\Marti\yolov5-master\yolov5-master\Dataset\boatData\images\valid
+
+#number of classes
+nc: 8
+
+#array of classnames
+names: ['cranefront','craneleft','craneright','greenboxleft','lifeboat','spotlightright','watchtower','winchright']

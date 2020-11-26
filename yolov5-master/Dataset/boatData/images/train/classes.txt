@@ -1,0 +1,8 @@
+craneleft
+craneright
+greenboxleft
+lifeboat
+cranefront
+winchright
+watchtower
+spotlightright
